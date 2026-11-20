@@ -38,8 +38,6 @@ La aplicación permite registrar usuarios con contraseñas cifradas, iniciar ses
 
 
 
-
-
 4. Tecnologías utilizadas
 
 
