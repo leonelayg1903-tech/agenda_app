@@ -22,29 +22,21 @@ La aplicación permite registrar usuarios con contraseñas cifradas, iniciar ses
 
 
 
-3. Capturas de pantalla
+3. Capturas de pantalla  
 
 
-
-(Coloca tus capturas dentro de una carpeta capturas/ en el proyecto o ajusta los nombres de archivo según tus imágenes).
-
-
-
-* Inicio de sesión:
 
 !\[Inicio de sesión](capturas/login.png)
 
 
 
-* Panel de contactos y filtros:
-
 !\[Panel de contactos](capturas/dashboard.png)
 
 
 
-* Edición de contacto:
-
 !\[Editar contacto](capturas/editar.png)
+
+
 
 
 
