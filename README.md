@@ -26,15 +26,11 @@ La aplicación permite registrar usuarios con contraseñas cifradas, iniciar ses
 
 
 
-!\[Inicio de sesión](capturas/login.png)
+![Inicio de sesión](capturas/login.png)
 
+![Panel de contactos](capturas/dashboard.png)
 
-
-!\[Panel de contactos](capturas/dashboard.png)
-
-
-
-!\[Editar contacto](capturas/editar.png)
+![Editar contacto](capturas/editar.png)
 
 
 
